@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spinner Calculator</string>
+    <string name="Number1">عدد اول</string>
+    <string name="Number2">عدد دوم</string>
+    <string name="محاسبه">محاسبه</string>
+    <string name="selected_item" />
+</resources>
